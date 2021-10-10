@@ -9,3 +9,4 @@ The COVID-19 dataset from Our World in Data is an extremely comprehensive datase
 The data extracted was cleaned using the Python pandas library and separated into 2 tables, namely `covid_deaths` and `covid_vaccinations`. Both tables were subsequently imported into postgreSQL via pgAdmin for data exploration using SQL queries.
 
 Finally, Tableau was used to visualise the key findings into a dashboard. Access the full dashboard on Tableau Public using this link: https://public.tableau.com/views/COVID-19Dashboard_16338670691100/COVID-19Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link
+<img src = './02_data/covid19_dashboard_screenshot.png'>
